@@ -1,0 +1,9 @@
+re
+python-docx
+PyMuPDF
+fitz
+operator
+sentence_transformers
+docx
+pandas
+numpy
