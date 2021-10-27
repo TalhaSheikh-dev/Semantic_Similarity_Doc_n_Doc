@@ -3,8 +3,8 @@ Semantic similarity code that can match a string within a document or a document
 
 
 The code is used to do 2 different things
-*Find a string in the document
-*Match a document with other document
+* Find a string in the document
+* Match a document with other document
 
 
 # Finding a string in the document
